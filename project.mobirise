@@ -39,7 +39,7 @@
     "uniqCompNum": 46,
     "versionPublish": "4.8.10",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/morall-capital-2-128x121.png",
     "noImageResize": ""
   },
   "pages": {
